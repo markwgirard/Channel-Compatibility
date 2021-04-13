@@ -17,7 +17,7 @@ Figures:
 
 ## References
 
-[1] Girard, M., Plávala, M. & Sikora, J. Jordan products of quantum channels and their compatibility. Nat Commun 12, 2129 (2021). \[[link](https://doi.org/10.1038/s41467-021-22275-0)  [arxiv](https://arxiv.org/abs/2009.03279)\]
+[1] Girard, M., Plávala, M. & Sikora, J. Jordan products of quantum channels and their compatibility. *Nature Communications* 12, 2129 (2021). \[links: [published version](https://doi.org/10.1038/s41467-021-22275-0), [arxiv version](https://arxiv.org/abs/2009.03279)\]
 
 
 
